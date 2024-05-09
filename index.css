@@ -1,0 +1,583 @@
+.container{
+    display: flex;
+    padding: 16px;
+  }
+  
+  .home-container{
+    padding-bottom: 20px;
+  }
+  
+  .home-heading{
+    color: darkslategray;
+    font-family: "Roboto";
+    font-size: 10px;
+  }
+
+  .home-img{
+   height: 60px;
+   width: 60px;
+   padding: 20px;
+  }
+
+  .container-fluid{
+  padding: 30px;
+  }
+  
+  .email-container{
+    background-color: #C9E9EE;
+    background-size: cover;
+    height: 70px;
+    width: 1000px;
+  }
+  
+  .email-heading{
+    font-size: 10px;
+    text-align: center;
+    padding-top: 23px;
+    color: darkslategray;
+    font-family: "Roboto";
+    font-weight: lighter;
+  }
+
+  .navbar{
+    padding: 25px;
+    margin-right: auto;
+  }
+
+  .navbar-nav{
+    display: flex;
+    margin-right: auto;
+    padding: 40px;
+    text-align: left;
+    align-items: flex-end;
+    text-align: right;
+  }
+
+  .nav-link{
+    color: darkslategray;
+    font-family: "Roboto";
+    font-size: 14px;
+  }
+
+  .image-child{
+  height: 250px;
+  width: 500px;
+  }
+
+  .img-child{
+  display: flex;
+  margin: 5px;
+  }
+  
+  .image-card{
+    height: 250px;
+    width: 260px;
+  }
+
+  .image-small{
+    height: 250px;
+    width: 200px;
+  }
+  
+  .world-container{
+    display: flex;
+    text-align: center;
+  }
+
+  .row{
+    display: flex;
+  }
+  
+  .group-img{
+   background-size: cover;
+   height: 360px;
+   padding: 50px;
+  }
+
+  .world-heading{
+  font-family: "Roboto";
+  font-size: 40px;
+  font-weight: 500;
+  color: #454545;
+  }
+
+  .world-paragraph{
+  color: #454545;
+  font-family: "Roboto";
+  font-size: 12px;
+  align-items: center;
+  margin-top: 10px;
+  }
+
+  .img-container{
+   width: 300px;
+  }
+  
+  .image-container {
+  display: inline;
+  margin-top: 50px;
+  }
+
+  .group-container{
+   margin-top: 60px;
+   margin-left: 120px;
+   height: 15px;
+  }
+  .rectangle-place{
+    justify-content: start;
+  }
+
+  .rectangle-img-container{
+   margin-bottom: 79px;
+   margin-top: 100px;
+  }
+  .rectangle-img{
+    height: 150px;
+    width: 180px;
+    margin-right: auto;
+  }
+
+  .rectangle-para{
+  margin-left: 100px;
+  }
+  
+  
+  
+  .rectangle-img-container{
+    margin: 7px;
+    display: flex;
+  }
+
+  .rectangle-img1{
+    height: 150px;
+    width: 150px;
+    margin-bottom: 10px;
+  }
+
+  .rectangle-img2{
+    height: 150px;
+    width: 100px;
+    margin-bottom: 10px;
+  }
+
+  .rectangle-img3{
+    height: 150px;
+    width: 170px;
+  }
+
+  .rectangle-img4{
+    height: 150px;
+    width: 130px;
+  }
+
+  .rectangle-img5{
+    height: 150px;
+    width: 190px;
+  }
+  .glance-heading{
+    color: #5B5B5B;
+    font-family: "Roboto";
+    font-size: 36px;
+    font-weight: 400;
+  }
+
+  .glance-paragraph{
+    color: #5B5B5B;
+    font-family: "Roboto";
+    font-size: 10px;
+  }
+
+  .frame-img{
+    height: 100px;
+    margin-left: 50px;
+  }
+
+  .rectangle-container{
+   display: flex;
+    margin: 5px;
+  }
+
+  .group-add{
+    background-image: url('whiteimage.webp');
+    background-size: cover;
+    height: 100px;
+  }
+
+  .group-photo{
+    margin-left: 650px;
+    margin-bottom: 200px;
+    height: 427px;
+  }
+  .group{
+   height: 80px;
+   margin-left: 700px;
+   margin-bottom: 100px;
+  }
+
+  .path-img{
+    height: 20px;
+    margin-left: 600px;
+    margin-bottom: 10px;
+  }
+
+  .img-cont-main{
+    height: 400px;
+  }
+
+  .group-ph-img {
+    background-image: url('Group.jpg.png');
+    background-size: cover;
+    height: 70vh;
+    width: 80vw;
+  }
+
+  .group-made{
+    background-image: url('Group 176497.png');
+    height: 60vh;
+  }
+
+  .world-container{
+    background-image: url('whiteimage.webp');
+    background-size: cover;
+    height: 35vh;
+  }
+
+  .home{
+    height: 25px;
+    margin-left: 350px;
+    margin-bottom: 30px;
+  }
+
+  .group-man{
+    background-image: url('whiteimage.webp');
+    background-size: cover;
+    height: 150px;
+    background-image: none;
+    margin-bottom: 80px;
+  }
+  
+  .group-paragraph{
+    margin-top: 0px;
+  }
+
+  .group-ph-img{
+    background-image: url('Group\ 176530\ \(1\).png');
+    background-size: cover;
+    height: 70vh;
+  }
+
+  .image-hard{
+    height: 40vh;
+    margin-left: 40px;
+  }
+  
+  .group-paragraph{
+    color: #5B5B5B;
+    font-family: "Roboto";
+    font-size: 30px;
+  }
+
+  .button-img{
+    display: flex;
+    margin-left: 350px;
+    margin-bottom: 100px;
+  }
+
+  .button{
+    color: black;
+    background-color: #ffffff;
+    height: 25px;
+    width: 120px;
+    margin-left: 10px;
+    margin-top: 8px;
+    font-family: "roboto";
+    font-size: 15px;
+    border: none;
+    border-radius: 2px;
+    font-weight: 400;
+  }
+  
+  .new-group-container{
+   text-align: center; 
+  }
+
+  .new{
+    height: 10vh;
+  }
+  
+  .new-heading{
+    color: #454545;
+    font-family: "Roboto";
+    font-size: 30px;
+    font-weight: 600;
+  }
+
+  .new-paragraph{
+    color: #454545;
+    font-family: "Roboto";
+    font-size: 12px;
+  }
+
+  .enriching{
+    background-image: url('Rectangle\ 805.png');
+    background-size: cover;
+    height: 70vh;
+    width: 40vw;
+    margin-top: 30px;
+    margin-left: 20px;
+  }
+
+  .enriching-container{
+    margin: 60px;
+    padding-top: 50px;
+  }
+  .enrich{
+    display: flex;
+  }
+  
+  .enriching-heading{
+    color: #454545;
+    font-family: "Roboto";
+    font-size: 35px;
+    font-weight: 600;
+  }
+
+  .enriching-paragraph{
+    color: #454545;
+    font-size: 18px;
+  }
+
+  .enriching-button{
+    color: black;
+    background-color: #ffffff;
+    height: 30px;
+    width: 120px;
+    margin-left: 10px;
+    margin-top: 8px;
+    font-family: "roboto";
+    font-size: 15px;
+    border: solid 1px gray;
+    border-radius: 2px;
+    font-weight: 400;
+  }
+
+  .enriching-image{
+    height: 80px;
+    margin-left: 140px;
+    align-items: end;
+  }
+  .mission-head-cotainer{
+    display: flex;
+    margin-left: 510px;
+    background-image: url('whiteimage.webp');
+    background-size: cover;
+    height: 60vh;
+    
+  }
+
+  .mission-plan{
+    background-color: white;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #e5eaf4;
+    height: 33vh;
+  }
+
+  .mission-path{
+    display: flex;
+    height: 30px;
+  }
+  
+  .line-image{
+    height: 150px;
+  
+  
+  }
+  .mission-img {
+    margin-left: 500px;
+    height: 25px;
+  }
+
+  .mission-heading{
+    columns: #343434;
+    font-family: "Roboto";
+    font-size: 25px;
+    margin: 30px;
+  }
+
+  .mission-paragraph {
+    color: #454545;
+    font-family: "Roboto";
+    font-size: 18px;
+    margin: 30px;
+  }
+ 
+
+  .academic-img{
+    height: 40vh;
+    width: 80vw;
+    margin-top: 60px;
+  }
+
+  .need-img{
+   height: 50vh;
+   width: 80vw;
+   margin-top: 400px;
+   margin-left: 20px;
+  }
+ 
+  .plan-group-container {
+    text-align: center;
+    margin: 50px;
+  }
+
+  .discover-place{
+    margin-right: 400px;
+  }
+
+  .learning-bg{
+    background-image: url('Group\ 176529.png');
+    background-size: cover;
+    height: 70vh;
+    width: 80vw;
+  }
+
+  .learning-img{
+    height: 50vh;
+    width: 120vh;
+  }
+
+  .learning-card{
+    margin: 180px;
+  }
+
+  .from-img {
+    height: 5vh;
+    margin-top: 60px;
+    margin-left: 300px;
+  }
+
+  .my-img {
+    height: 70vh;
+    width: 80vw;
+    margin-bottom: 100px;
+  }
+
+  .place-group-container{
+    text-align: center;
+    background-image: url('Group\ 176514.png');
+    background-size: cover;
+    height: 1000px;
+    width: 1050px;
+  }
+  .place-group{
+    background-image: url('Group\ 176514.png');
+    background-size: cover;
+    height: 1000px;
+    width: 1050px;
+  }
+
+  .child-container{
+    background-image: url('Trehaus-Website-0088.jpg.png');
+    background-size: cover;
+    height: 100vh;
+    width: 80vw;
+  }
+
+  .cell-img{
+    height: 60vh;
+    margin-top: 130px;
+    margin-left: 300px;
+  }
+
+  .tree-img{
+    height: 100px;
+    margin-left: 450px;
+    margin-top: 70px;
+  }
+
+  .item{
+    text-align: center;
+    background-image: url('image\ 6.png');
+    background-size: cover;
+    height: 40vh;
+    width: 80vw;
+    margin-top: 50px;
+    padding-top: 60px;
+  }
+
+  .item-heading{
+    font-family: "Roboto";
+    font-size: 40px;
+    color: white;
+    font-weight: 600;
+  }
+
+  .item-paragraph{
+    color: white;
+    font-family: "Roboto";
+    font-size: 15px;
+  }
+
+  .man-img{
+    height: 20vh;
+    margin: 50px;
+  }
+
+  .pan-img{
+    height: 20px;
+    margin-bottom: 90px;
+    margin-left: 50px;
+  }
+
+  .insta-container{
+    margin: 10px;
+  }
+  
+  .line-img{
+    color: #454545;
+  }
+  
+  .copy-para{
+    color: #5B5B5B;
+    text-align: center;
+    font-family: "Roboto";
+    font-size: 13px;
+    margin-top: 25px;
+  }
+
+  .write-container{
+    background-image: url('Rectangle\ 804\ \(3\).png');
+    background-size: cover;
+    height: 70vh;
+    width: 40vw;
+    margin-top: 30px;
+  }
+
+  .write-heading{
+    font-family: "Roboto";
+    font-size: 25px;
+    color: #454545;
+    
+  }
+
+  .write-para{
+    font-family: "Roboto";
+    font-size: 12px;
+    color: #454545;
+  }
+  
+  .wr-img{
+    height: 20px;
+  }
+
+  .write-had{
+    margin-left: 40px;
+  }
+
+  .marg-img{
+    margin: 30px;
+    margin-top: 30px;
+  }
+  
+   
